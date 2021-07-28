@@ -1,0 +1,3 @@
+[submodule "dummy-orchestration"]
+	path = dummy-orchestration
+	url = https://github.com/WiktorKania/dummy-orchestration
